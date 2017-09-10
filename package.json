@@ -1,0 +1,27 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "description": "game engine",
+  "main": "index.js",
+  "dependencies": {
+    "node-static": "^0.7.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LakaevAlex/play.git"
+  },
+  "keywords": [
+    "play",
+    "game"
+  ],
+  "author": "Lakaev Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LakaevAlex/play/issues"
+  },
+  "homepage": "https://github.com/LakaevAlex/play#readme"
+}
